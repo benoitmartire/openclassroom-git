@@ -5,4 +5,7 @@ au sein du même projet.
 Parallèlement, j'ai une activité de micro entrepreneur. Je développe des solutions autour du traitement d'image, 
 de gestion de flux de production de commande entièrement chainer avec des sites Web.
 
+Spécialisé dans le développement Python, et développement Web Python/Zope, je maitrise aussi Javascript/Jquery.
+J'ai aussi des connaissances en C# et Java#, ainsi qu'une approche en C à travers du prototypage Arduino.
 
+Actuellement sans emploi, je me suis lancé dans un vaste programme d'auto formation pour combler mes lacunes et retards technique
